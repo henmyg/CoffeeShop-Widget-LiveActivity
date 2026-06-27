@@ -1,0 +1,10 @@
+{
+    "Simulator Target Bundle": "dk.henmyg.CoffeeShop",
+    "aps": {
+        "alert": {
+            "title": "Coffee Is Ready",
+            "subtitle": "Americano ready for pickup",
+            "body": "Get it before it gets cold"
+        }
+    }
+}
